@@ -1,5 +1,5 @@
 
-export const host = "http://localhost:4001";
+export const host = "https://agile-cliffs-81775.herokuapp.com/";
 export const registerRoute = `${host}/api/auth/register`
 export const loginRoute = `${host}/api/auth/login`
 export const setAvatarRoute = `${host}/api/auth/setAvatar`
