@@ -4,6 +4,8 @@ import styled from 'styled-components'
 
 import {BiPowerOff} from "react-icons/bi"
 
+
+
 export default function Logout() {
     const navigate = useNavigate()
     const handleClick = async () => {
